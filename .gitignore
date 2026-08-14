@@ -1,0 +1,17 @@
+# Ambiente virtual
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Bases de dados locais
+*.xlsx
+*.csv
+
+# Arquivos temporários
+*.tmp
+*.log
